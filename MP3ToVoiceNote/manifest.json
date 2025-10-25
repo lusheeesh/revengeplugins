@@ -1,0 +1,9 @@
+{
+  "name": "MP3ToVoiceNote",
+  "description": "Convert MP3 uploads into accurate Discord voice messages (waveform + duration) in Revenge/Vendetta.",
+  "authors": [
+    { "name": "Lushy", "id": "1332944514322792518" }
+  ],
+  "version": "1.0.0",
+  "main": "index.js"
+}
